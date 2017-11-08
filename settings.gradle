@@ -1,0 +1,9 @@
+rootProject.name = 'rxworkshop'
+include 'observable-backup'
+include 'utils'
+include 'ex1'
+include 'ex2'
+include 'ex3'
+include 'ex4'
+include 'ex5'
+
